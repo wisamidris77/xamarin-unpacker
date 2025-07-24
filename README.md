@@ -240,5 +240,7 @@ If this tool helped you, consider giving it a star on GitHub!
 
 ---
 
+And special thanks for https://github.com/jakev/pyxamstore, Learned from his app a lot but the problem it was crashing and not unpacking!!
+
 **Made with ❤️ for the reverse engineering community**
 
